@@ -92,3 +92,8 @@ Designing intuitive digital experiences with a focus on usability, accessibility
 Design with Purpose • Build with Creativity
 
 </p>
+## GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=saravana1011810118-svg&show_icons=true&theme=midnight-purple)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=saravana1011810118-svg&layout=compact&theme=midnight-purple)
